@@ -39,7 +39,7 @@ class Menu():
         exit()
 
 def pFiglet(text):
-    printFiglet= Figlet(font='starwars')
+    printFiglet= Figlet(font='big')
     return str(printFiglet.renderText(text))
 print(pFiglet("Draco-Files"))
 print('\n version 0.1')
