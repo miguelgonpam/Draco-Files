@@ -1,5 +1,5 @@
 # Draco-Files
-Python tool for file encryption and decryption
+Python tool for file encryption and decryption. More steps to follow inside the program.
 
 # INSTALLATION
 ```
